@@ -1,0 +1,12 @@
+.topnav{
+    position: fixed;
+    font-size: 20px;
+    padding-left: 55%;
+    width: 63%;
+    height: 30%;
+    text-align: center;
+    border-style: outset;
+}
+.section-title{
+    text-align: center; 
+}

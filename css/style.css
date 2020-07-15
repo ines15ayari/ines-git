@@ -1,0 +1,88 @@
+#blue-bordered{
+    color:black;
+    margin-bottom: 30px;
+    font-size: 60px;
+    align-items: center;
+    font-family: miso-bold;
+    
+}
+  img {
+        border-radius: 50%;
+        text-align: center;
+        border-color: black;
+    }
+.table{ text-align: center;
+}
+
+.section-title{
+  background-image: url(https://images.hdqwalls.com/download/3d-triangle-geometry-artwork-5k-go-1336x768.jpg);
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+padding-bottom: 80px;}
+body{text-align: center;
+  background-color: #c2eaba;
+  background-image: linear-gradient(319deg, #c2eaba 0%, #c5f4e0 37%, #efc2cf 100%);
+  ;
+}
+h5{text-align: center;
+     border-radius: 20px;
+     font-size: 30px;
+    }
+h2{text-align: center;
+  border-style: outset;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+ol{
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    text-decoration:none;
+  }
+  .topnav{    position: fixed;
+    font-size: 20px;
+    padding-left: 55%;
+    width: 63%;
+    height: 5%;
+    text-align: center;
+    border-style: outset;
+}
+a{color:black;}
+  /* div {
+    font-size:20px;
+    font-style: italic;
+    border-style: outset;
+    padding:20px;
+    border-radius: 20px;
+    display:flex;
+    justify-content:flex-end;
+    
+
+  } */
+  a{
+      text-decoration: none;
+      margin-right:2%;
+  }
+  .face{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 13%;
+  margin-bottom: 50px;
+  }
+  .endofpage{background-color: rgb(80, 77, 77);}
+  .icon {
+    position: relative;
+ 
+    margin-right: 8px;
+    display: inline-block;}
+    .icon-facebook {
+      background-image: url(../image/icon-facebook.png);
+  }
+  h3{color:white;
+    font-family: miso-bold;}
+  label{color: white;
+    font-family: miso-bold;}
